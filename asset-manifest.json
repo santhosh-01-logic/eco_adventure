@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.js": "/eco-adventure/static/js/main.b0b5dd0b.js",
+    "static/media/positive_bottle.png": "/eco-adventure/static/media/positive_bottle.d72c6c24541e03b69726.png",
+    "static/media/intro_green_world.png": "/eco-adventure/static/media/intro_green_world.cd549a5358e3c7bfb678.png",
+    "static/media/lock_icon.png": "/eco-adventure/static/media/lock_icon.bbd4ec473a1e6ee9c6e9.png",
+    "static/media/intro_polluted_world.png": "/eco-adventure/static/media/intro_polluted_world.40dc6a9b2b2afa68aea1.png",
+    "static/media/forest_locked.png": "/eco-adventure/static/media/forest_locked.e64911c9d2635ac1ae6b.png",
+    "static/media/village_unlocked.png": "/eco-adventure/static/media/village_unlocked.cc1c921acf4dd1fc74d3.png",
+    "static/media/negative_bottle.png": "/eco-adventure/static/media/negative_bottle.82d6c2dc5dd7b17f0657.png",
+    "static/media/info_button.png": "/eco-adventure/static/media/info_button.a5f831cffdfb44608202.png",
+    "static/media/badge_basic.png": "/eco-adventure/static/media/badge_basic.a11eea872215986440aa.png",
+    "static/media/basic_quest.png": "/eco-adventure/static/media/basic_quest.a11eea872215986440aa.png",
+    "static/media/badge_legendary.png": "/eco-adventure/static/media/badge_legendary.636a0562c61e5a1dcef9.png",
+    "static/media/legendary_quest.png": "/eco-adventure/static/media/legendary_quest.636a0562c61e5a1dcef9.png",
+    "static/media/villain_idle.png": "/eco-adventure/static/media/villain_idle.dea592f833c4d256d605.png",
+    "static/media/badge_epic.png": "/eco-adventure/static/media/badge_epic.3cd2833ee051bf631194.png",
+    "static/media/epic_quest.png": "/eco-adventure/static/media/epic_quest.3cd2833ee051bf631194.png",
+    "index.html": "/eco-adventure/index.html",
+    "main.b0b5dd0b.js.map": "/eco-adventure/static/js/main.b0b5dd0b.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.b0b5dd0b.js"
+  ]
+}
